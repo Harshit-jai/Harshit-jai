@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hjaiswal285@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18k8b_aN8-Wk_QyE68oZOTCZSd4h4vyuD/view?usp=drive_link](https://drive.google.com/file/d/18k8b_aN8-Wk_QyE68oZOTCZSd4h4vyuD/view?usp=drive_link)
+- 📄 Know about my experiences [Harshit Jaiswal Resume](https://harshitjaiswal.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
