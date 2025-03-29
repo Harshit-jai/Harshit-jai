@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hjaiswal285@gmail.com**
 
-- ♟️ Let's Play Chess ****. 
+- ♟️ Let's Play Chess **https://www.chess.com/member/harsh_jais99**. 
 
 - 📄 Know about my experiences [Harshit Jaiswal Resume](https://harshitjaiswal.tiiny.site)
 
