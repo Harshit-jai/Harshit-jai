@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-jai" alt="harshit-jai" /></a> </p>
 
-- 🔭 I’m currently working on [Weblave](https://weblave.netlify.app/)
+- 🔭 I’m currently working on [Weblave](https://weblave.vercel.app/)
 
 - 🌱 I’m currently learning **Advanced MERN Stack Concepts,**
 
