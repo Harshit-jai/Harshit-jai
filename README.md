@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harshit jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit jaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh_.jai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_.jai" height="30" width="40" /></a>
+<a href="https://x.com/Harshit_jai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh_.jai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshit_jaiswal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit_jaiswal07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshitjai9pks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshitjai9pks" height="30" width="40" /></a>
 </p>
